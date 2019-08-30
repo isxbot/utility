@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 # Import certificate from site to Java keystore.
 # Site URL is arg $1.
 
